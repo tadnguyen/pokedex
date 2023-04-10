@@ -1,4 +1,4 @@
-# comic_app
+# pokemon_app
 
 A new Flutter project.
 
